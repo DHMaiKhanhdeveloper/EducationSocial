@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "898338479686",
+    "project_id": "cuoiky-f055d",
+    "storage_bucket": "cuoiky-f055d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898338479686:android:fb78978956d134fb3bf447",
+        "android_client_info": {
+          "package_name": "com.example.SocialMedia1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898338479686-2c0in5vgl7jhsbbintkgt2c55ctgihnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.SocialMedia1",
+            "certificate_hash": "7edf8d3df8fd14234329711de03d2904fb528bc9"
+          }
+        },
+        {
+          "client_id": "898338479686-6c885ps4ick650526k71f3frpl9rhiqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAjxGGuHDAeoNYuw-mkUXK8ZDmvhI4ED0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898338479686-6c885ps4ick650526k71f3frpl9rhiqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898338479686:android:b78fc742e82678183bf447",
+        "android_client_info": {
+          "package_name": "com.example.signinfunction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898338479686-6c885ps4ick650526k71f3frpl9rhiqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAjxGGuHDAeoNYuw-mkUXK8ZDmvhI4ED0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898338479686-6c885ps4ick650526k71f3frpl9rhiqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
